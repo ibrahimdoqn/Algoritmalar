@@ -66,6 +66,5 @@ basla:
     yil++;
     if(w==4)w=0;
     getchar();
-    if(yil==3000)exit(0);
     goto basla;
 }
