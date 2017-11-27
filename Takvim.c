@@ -51,14 +51,14 @@ basla:
         else{
             if(ay==1||ay==3||ay==5||ay==10||ay==12||ay==7||ay==8)for(gun=1;gun<=31;gun++){
             printf("\n%d.%d.%d",yil,ay,gun);
-            q=3;goto mons;
-        q3:
+            q=2;goto mons;
+        q2:
             mon++;
         }
             if(ay==4||ay==6||ay==9||ay==11)for(gun=1;gun<=30;gun++){
                 printf("\n%d.%d.%d",yil,ay,gun);
-                q=2;goto mons;
-            q2:
+                q=3;goto mons;
+            q3:
                 mon++;
             }
         }
