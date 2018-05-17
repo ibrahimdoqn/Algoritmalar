@@ -1,1 +1,2 @@
 # Algoritmalar
+Oluşturduğum bazı algoritmalar
